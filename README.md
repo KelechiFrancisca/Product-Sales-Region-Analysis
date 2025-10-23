@@ -6,8 +6,8 @@
 
 #  Product Sales Region Analysis
 
-This project analyzes retail sales data across multiple regions, products, and promotions. It includes data cleaning, feature engineering, and exploratory analysis to uncover business insights.
-
+>This project analyzes retail sales data across multiple regions, products, and promotions. It includes data cleaning, feature engineering, and exploratory analysis to uncover business insights.
+>
 ##  Dataset Overview
 
 The dataset contains:
@@ -45,9 +45,9 @@ The dataset contains:
 - Build interactive dashboards using Plotly or Streamlit
 - Develop predictive models for return likelihood or sales forecasting
 
-## 💼 Author
+##  Author
 
-Built by [Your Name] — aspiring data analyst with a passion for turning messy data into meaningful stories.
+Built by [Francisca] — aspiring data analyst with a passion for turning messy data into meaningful stories.
 
 
 
