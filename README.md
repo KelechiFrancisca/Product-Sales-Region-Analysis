@@ -11,34 +11,36 @@ This project analyzes retail sales data across multiple regions, products, and p
 ##  Dataset Overview
 
 The dataset contains:
-- Sales transactions across regions (East, West, North, South, Central)
-- Product details, pricing, discounts, and promotions
-- Customer types, store locations, and shipping costs
-- Order and delivery dates
++ Sales transactions across regions (East, West, North, South, Central)
++ Product details, pricing, discounts, and promotions
++ Customer types, store locations, and shipping costs
++ Order and delivery dates
+---
 
-## 🧼 Data Cleaning Steps
+##  Data Cleaning Steps
 
 - Standardized column names
 - Filled missing `promotion` values
 - Created `total_sales` from `quantity * unitprice`
 - Converted `orderdate` and `deliverydate` to datetime
 - Removed returned orders and duplicates
+---
 
-## 🔍 Exploratory Analysis
+##  Exploratory Analysis
 
 - Total sales by region and product
 - Impact of promotions on sales
 - Delivery time patterns
 - Top-performing salespeople and store locations
-
-## 📈 Key Insights
+---
+##  Key Insights
 
 - The **East region** had the highest total sales
 - **Desks and chairs** were top-selling products
 - Promotions like `SAVE10` and `FREESHIP` drove significant revenue
 - Wholesale customers contributed to larger order volumes
-
-## 🚀 Next Steps
+---
+##  Next Steps
 
 - Build interactive dashboards using Plotly or Streamlit
 - Develop predictive models for return likelihood or sales forecasting
