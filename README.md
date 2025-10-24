@@ -40,6 +40,17 @@ The dataset contains:
 - Promotions like `SAVE10` and `FREESHIP` drove significant revenue
 - Wholesale customers contributed to larger order volumes
 ---
+
+
+## Power BI Visualization
+
+
+
+
+
+
+
+
 ##  Next Steps
 
 - Build interactive dashboards using Plotly or Streamlit
