@@ -52,8 +52,10 @@ The dataset contains:
 
 
 
-##  Ne<img width="970" height="545" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/cbab4c3a-fecb-4823-88b1-b42ebf21e0bd" />
-xt Steps
+<img width="970" height="545" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/cbab4c3a-fecb-4823-88b1-b42ebf21e0bd" />
+
+
+## Next Steps
 
 - Build interactive dashboards using Plotly or Streamlit
 - Develop predictive models for return likelihood or sales forecasting
